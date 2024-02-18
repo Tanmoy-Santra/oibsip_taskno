@@ -10,14 +10,17 @@ During this internship, I will be diving deep into various aspects of web develo
 
 In this repository, you'll find:
 
-- **Code Samples:** Examples of web development projects, exercises, or challenges I've completed during the internship.
-- **Documentation:** Guides, notes, or documentation related to the technologies and concepts I've learned.
-- **Project Demos:** Demonstrations or prototypes of projects I've worked on as part of the internship.
-
+- **landing page** 
+- **Portfolio web page** 
+- **tribute page**
+- **calcutator** 
+- **Login page** 
+- **Tempareture converter**
+- **To-Do app** 
 Feel free to explore the repository and check out my progress. If you have any feedback, suggestions, or questions, don't hesitate to reach out!
 
 ## Contact Information
 
-If you'd like to get in touch with me regarding my internship experience or any related inquiries, you can reach me at [your_email@example.com](mailto:your_email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your_profile).
+If you'd like to get in touch with me regarding my internship experience or any related inquiries, you can reach me at [tanmoysantra911@gmail.com](mailto:tanmoysantra911@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/tanmoy-santra-986b32252).
 
 Happy coding!
