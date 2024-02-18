@@ -22,6 +22,6 @@ Feel free to explore the repository and check out my progress. If you have any f
 
 ## Contact Information
 
-If you'd like to get in touch with me regarding my internship experience or any related inquiries, you can reach me at [tanmoysantra911@gmail.com](mailto:tanmoysantra911@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tanmoy-santra-986b32252/).
+If you'd like to get in touch with me regarding my internship experience or any related inquiries, you can reach me at [tanmoysantra911@gmail.com](mailto:tanmoysantra911@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tanmoy-santra-986b32252/). 
 
 Happy coding!
